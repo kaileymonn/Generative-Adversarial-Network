@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+*.png
+!gan_architecture.png
+!discriminator_network.png
